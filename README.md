@@ -25,5 +25,5 @@ and that the user chose at least one character type.
 
 The following image demonstrates the application functionality:
 
-![password generator demo](PasswordGeneratorScreenshot.png)
+![password generator demo](PWGenSnip.PNG)
 
